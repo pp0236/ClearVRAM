@@ -1,6 +1,9 @@
 # fix
 working with vrchat b1159
 
+#shit pc detected
+for who using gpu that have 32 mb vram still need this lol like me
+
 # ClearVRAM
 
 **Disclaimer: Build 1106 introduced better memory management for avatars in VRChat. This mod is techincally not needed anymore, but if you still experience problems where your RAM/VRAM gets close to 100%, feel free to use the mod.**
