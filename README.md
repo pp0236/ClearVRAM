@@ -1,7 +1,7 @@
 # fix
 working with vrchat b1159
 
-#shit pc detected
+# shit pc detected
 for who using gpu that have 32 mb vram still need this lol like me
 
 # ClearVRAM
